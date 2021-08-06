@@ -41,11 +41,12 @@
 
 * Sc ini masih dalam pengembangan
 * Untuk sc yang ini menggunakan apikey
-* Untuk apikey nya tanya saya ya,gratis kok
+* Untuk apikey nya udah aku kasih gratis kok
 
   # MAKASIH LORT
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
 * [`MhankBarBar`](https://github.com/MhankBarBar)
 * [`MRHRTZ`](https://github.com/MRHRTZ)
 * [`Hexagon`](https://github.com/Hexagonz/SELF-HX )
+* [`Zeetoyah002`](https://github.com/Zeetoyah002/Takio-Botz2)
   
