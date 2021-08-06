@@ -2,7 +2,7 @@
 <div align="center">
 <img src="https://telegra.ph/file/6edf2d0cab53049f4f1eb.jpg" alt="Takio-Botz-v1" width="300" />
 
-# ZEETOYAH
+# Zeevalya Christiano
 
 >
 >
