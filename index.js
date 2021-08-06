@@ -1,5 +1,6 @@
 // SC NYA JANGAN DI JUAL NGENTOD
 //MAKASIH DAH PAKE 
+//Zeetoyah002 memperhatikanmu!!
 const
 	{
 		WAConnection,
@@ -64,7 +65,7 @@ numbernye = '0'
 waktu = '-'
 alasan = '-'
 namabot = 'INFORMATION BOT'
-zeeapi = 'zeegans' //apikey tanya gw ya
+zeeapi = 'api-gratis' //apikey tanya gw ya
 //=================================================//
 module.exports = Christ = async (Christ, mek) => {
 	try {
