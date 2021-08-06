@@ -332,7 +332,7 @@ module.exports = Christ = async (Christ, mek) => {
         }
     }
 }	
-        if (!mek.key.fromMe && isOwner && banChats === true) return
+        if (!mek.key.fromMe && !isOwner && banChats === true) return
 switch (command) {
     case 'jadibot':
     if(mek.key.fromMe) return reply('Tidak bisa jadibot di dalam bot')
