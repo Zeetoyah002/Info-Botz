@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://github.com/Zeetoyah002"><img title="Author" src="https://img.shields.io/badge/Author-Zeetoyah002-red.svg?style=for-the-badge&logo=github" /></a>
   <h4 align="center">
-  <a href="https://wa.me/6285755007597">KYAAA ONI CHAN >//< </a>
+  <a href="https://wa.me/6285755007597">klik ini kalau mau apikey</a>
 </h4>
 </p>
 
@@ -39,7 +39,9 @@
 
 # INFO
 
-Sc ini masih dalam pengembangan
+* Sc ini masih dalam pengembangan
+* Untuk sc yang ini menggunakan apikey
+* Untuk apikey nya tanya saya ya,gratis kok
 
   # MAKASIH LORT
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
