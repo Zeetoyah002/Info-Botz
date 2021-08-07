@@ -13,7 +13,6 @@
   <h4 align="center">
   <a href="https://wa.me/6285755007597">Darling</a>
 <h4 align="center">
-<a href="https://wa.me/6282132810481">Klik di sini kalau mau coba bot</a>
 </h4>
 </p>
 
@@ -52,3 +51,10 @@
 * [`Hexagon`](https://github.com/Hexagonz/SELF-HX )
 * [`Zeetoyah002`](https://github.com/Zeetoyah002/Takio-Botz2)
   
+
+<h4 align="center">
+  COBA BOT ↓↓↓
+<h4 align="center">
+<h4 align="center">
+<a href="https://wa.me/6282132810481">Klik di sini kalau mau coba bot</a>
+<h4 align="center">
