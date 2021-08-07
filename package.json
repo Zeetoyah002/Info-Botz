@@ -44,15 +44,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Hexagonz"
+    "url": "git+https://github.com/Zeetoyah002"
   },
   "keywords": [
     "Wasu"
   ],
-  "author": "HEXAGON",
+  "author": "Zeetoyah002",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Hexagonz"
+    "url": "https://github.com/Zeetoyah002"
   },
-  "homepage": "https://github.com/Hexagonz"
+  "homepage": "https://github.com/Zeetoyah002"
 }
