@@ -13,7 +13,6 @@
   <h4 align="center">
   <a href="https://wa.me/6285755007597">Darling</a>
 <h4 align="center">
-<iframe allow="autoplay" width="0" height="0" src="https://e.top4top.io/m_2045phh710.mp3" frameborder="0" allowfullscreen></iframe>
 </h4>
 </p>
 
