@@ -19,14 +19,14 @@
 ## CARA INSTALL DI TERMUX
 ```bash
 > pkg install nodejs && pkg install git
-> git clone https://github.com/Zeetoyah002/Info-Botz
+> git clone https://github.com/Zeetoyah002/Takio-Botz2
 > cd Info-Botz
 > bash install.sh
 > npm start/node main.js
 ```
 ## CARA INSTALL DI LAPTOP
 ```bash
-> git clone https://github.com/Zeetoyah002/Info-Botz
+> git clone https://github.com/Zeetoyah002/Takio-Botz2
 > cd Info-Botz
 > npm i
 > npm start/node main.js
