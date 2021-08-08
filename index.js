@@ -1,6 +1,8 @@
 // SC NYA JANGAN DI JUAL NGENTOD
 //MAKASIH DAH PAKE 
 //Zeetoyah002 memperhatikanmu!!
+//Enggak² canda om :v
+//Sc seadanya ya bisa aja suatu saat nih sc gw update
 const
 	{
 		WAConnection,
@@ -58,15 +60,15 @@ const setiker = JSON.parse(fs.readFileSync('./database/sticker.js'))
 //=================================================//
 banChats = true
 offline = false
-targetpc = '6285755007597'
-owner = '6285755007597'
+targetpc = '6285755007597' //ganti nomor lu
+owner = '6285755007597' //ganti nomor lu
 fake = 'INFORMATION BOT'
 numbernye = '0'
 waktu = '-'
 alasan = '-'
 namabot = 'INFORMATION BOT'
 nameowner = 'Zeevalya'
-zeeapi = 'zeegans' //apikey tanya gw ya
+zeeapi = 'YOUR_APIKEY' //apikey tanya gw ya free kalau lu mau tanya
 //=================================================//
 module.exports = Christ = async (Christ, mek) => {
 	try {
