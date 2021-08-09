@@ -478,9 +478,9 @@ Prefix : 「 MULTI-PREFIX 」
 ╰────────────────⊱ 	
 
 ❏ *${namabot}* ❏`
-nase = fs.readFileSync('./stik/thumb.jpeg')
-Christ.sendMessage(from,nase,image,{caption: `${menu}`,quoted: mek})
-       // 	fakestatus(menu)
+//nase = fs.readFileSync('./stik/thumb.jpeg')
+//Christ.sendMessage(from,nase,image,{caption: `${menu}`,quoted: mek})
+        	fakestatus(menu)
            	break
     case 'delvote':
             if(!mek.key.remoteJid) return
