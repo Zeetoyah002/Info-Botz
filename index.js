@@ -69,7 +69,7 @@ waktu = '-'
 alasan = '-'
 namabot = 'Takio-Botz'//ganti nama bot lu
 nameowner = 'Zeevalya'//ganti nama lu
-zeeapi = 'zeegans' //apikey tanya gw ya free kalau lu mau tanya
+zeeapi = 'YOUR_APIKEY' //apikey tanya gw ya free kalau lu mau tanya
 //=================================================//
 module.exports = Christ = async (Christ, mek) => {
 	try {
