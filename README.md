@@ -20,14 +20,14 @@
 ```bash
 > pkg install nodejs && pkg install git
 > git clone https://github.com/Zeetoyah002/Takio-Botz2
-> cd Info-Botz
+> cd Takio-Botz2
 > bash install.sh
 > npm start/node main.js
 ```
 ## CARA INSTALL DI LAPTOP
 ```bash
 > git clone https://github.com/Zeetoyah002/Takio-Botz2
-> cd Info-Botz
+> cd Takio-Botz2
 > npm i
 > npm start/node main.js
 ```
@@ -53,7 +53,7 @@
   
 
 <h4 align="center">
-  COBA BOT ↓↓↓
+  ↓↓↓COBA BOT ↓↓↓
 <h4 align="center">
 <h4 align="center">
 <a href="https://wa.me/6282132810481">Klik di sini kalau mau coba bot</a>
