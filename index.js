@@ -361,7 +361,7 @@ switch (command) {
     break
     case 'menu':
     case 'help':
-      fakestatus('PROSES MEMUNCULKAN MENU...')
+
     	var menu = `Hai ${pushname}
 Prefix : 「 MULTI-PREFIX 」
 
