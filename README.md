@@ -55,6 +55,5 @@
 <h4 align="center">
   ↓↓↓COBA BOT ↓↓↓
 <h4 align="center">
-<h4 align="center">
 <a href="https://wa.me/6282132810481">Klik di sini kalau mau coba bot</a>
-<h4 align="center">
+
