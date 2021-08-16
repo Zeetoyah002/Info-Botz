@@ -19,15 +19,15 @@
 ## CARA INSTALL DI TERMUX
 ```bash
 > pkg install nodejs && pkg install git
-> git clone https://github.com/Zeetoyah002/Takio-Botz2
-> cd Takio-Botz2
+> git clone https://github.com/Zeetoyah002/Takio-Botz
+> cd Takio-Botz
 > bash install.sh
 > npm start/node main.js
 ```
 ## CARA INSTALL DI LAPTOP
 ```bash
-> git clone https://github.com/Zeetoyah002/Takio-Botz2
-> cd Takio-Botz2
+> git clone https://github.com/Zeetoyah002/Takio-Botz
+> cd Takio-Botz
 > npm i
 > npm start/node main.js
 ```
@@ -48,8 +48,8 @@
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
 * [`MhankBarBar`](https://github.com/MhankBarBar)
 * [`MRHRTZ`](https://github.com/MRHRTZ)
-* [`Hexagon`](https://github.com/Hexagonz/SELF-HX )
-* [`Zeetoyah002`](https://github.com/Zeetoyah002/Takio-Botz2)
+* [`Hexagon`](https://github.com/Hexagonz)
+* [`Zeetoyah002`](https://github.com/Zeetoyah002)
   
 
 
