@@ -42,7 +42,7 @@
 
 * Sc ini masih dalam pengembangan
 * Untuk sc yang ini menggunakan apikey
-* Untuk apikey nya udah aku kasih gratis kok
+* Untuk apikey nya chat saya gratis
 
   # MAKASIH LORT
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
@@ -52,8 +52,4 @@
 * [`Zeetoyah002`](https://github.com/Zeetoyah002/Takio-Botz2)
   
 
-<h4 align="center">
-  ↓↓↓COBA BOT ↓↓↓
-<h4 align="center">
-<a href="https://wa.me/6282132810481">Klik di sini kalau mau coba bot</a>
 
