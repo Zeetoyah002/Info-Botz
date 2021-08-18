@@ -13,4 +13,5 @@ wget -O ~/../usr/share/tessdata/ind.traineddata "https://github.com/tesseract-oc
 npm install
 npm install jpeg-js
 npm install @jimp/jpeg
+npm install -g npm
 npm start
