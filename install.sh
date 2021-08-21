@@ -11,7 +11,4 @@ apt-get install tesseract
 apt-get install nmap
 wget -O ~/../usr/share/tessdata/ind.traineddata "https://github.com/tesseract-ocr/tessdata/blob/master/ind.traineddata?raw=true"
 npm install
-npm install jpeg-js
-npm install @jimp/jpeg
-npm install -g npm
-npm start
+echo "run npm start to starting bot"
