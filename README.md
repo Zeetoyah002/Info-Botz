@@ -38,11 +38,174 @@
 * [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
 * [Libwebp](https://developers.google.com/speed/webp/download)
 
-# INFO
+# FITUR BOT
+```bash
 
-* Sc ini masih dalam pengembangan
-* Untuk sc yang ini menggunakan apikey
-* Untuk apikey nya chat saya gratis
+∆ OWNER
+✓ off
+✓ on
+✓ status
+✓ self
+✓ public
+✓ setthumb
+✓ settarget
+✓ setfakeimg
+✓ setreply
+
+∆ GRUB
+✓ grup buka/tutup
+✓ tutuptime
+✓ linkgc
+✓ promote
+✓ demote 
+✓ listadmin
+✓ setppgrup
+✓ kick 
+✓ add 
+✓ listonline
+
+∆ MAKER
+✓ sticker
+✓ swm 
+✓ take 
+✓ fdeface
+✓ emoji
+✓ attp
+✓ nulis 
+
+∆ CONVERT
+✓ toimg
+✓ tomp3
+✓ tomp4
+✓ slow
+✓ fast
+✓ reverse
+✓ tourl
+
+∆ UP STORY
+✓ upswteks
+✓ upswimage
+✓ upswvideo
+
+∆ FUN
+✓ fitnah
+✓ fitnahpc
+✓ getpp
+✓ kontak
+✓ caklontong
+✓ tebakgambar
+✓ fakedata
+✓ meme
+✓ quotes
+✓ quoteskanye
+✓ artinama 
+✓ tts 
+✓ jadian
+✓ slot
+✓ suit
+✓ mancing
+
+∆ TAG
+✓ hidetag
+✓ kontag
+✓ sticktag
+✓ totag
+✓ tagall
+
+∆ DOWNLOAD
+✓ ytsearch 
+✓ igstalk 
+✓ play 
+✓ video 
+✓ ytmp3 
+✓ ytmp4 
+✓ ig 
+✓ igstory 
+✓ twitter 
+✓ tiktok 
+✓ tiktokaudio 
+✓ fb 
+✓ brainly 
+✓ image 
+✓ anime 
+✓ pinterest 
+✓ komiku 
+✓ chara 
+✓ playstore 
+✓ otaku 
+✓ kusonime 
+✓ randomwpp
+✓ translate
+
+∆ OTHER
+✓ linkwa
+✓ owner
+✓ ping
+✓ inspect
+✓ join
+✓ caripesan 
+✓ get
+✓ term
+✓ sourcecode
+✓ x
+
+∆ WIBU
+✓ chara 
+✓ otaku 
+✓ kusonime 
+
+∆ JADI BOT
+✓ jadibot
+✓ stopjadibot
+✓ listbot
+
+∆ VOTE
+✓ voting 
+✓ delvote
+✓ vote
+✓ devote
+
+∆ INFORMATION               
+✓ developer
+✓ google 
+✓ kbbi 
+✓ film 
+✓ coviddunia
+✓ covidindo
+✓ infogempa
+✓ map
+✓ chordlagu 
+✓ lirik 
+✓ wikipedia 
+
+∆ GABUT                           
+✓ ganteng
+✓ cantik
+✓ jelek
+✓ goblok
+✓ bego
+✓ pinter
+✓ jago
+✓ nolep
+✓ monyet
+✓ babi
+✓ beban
+✓ baik
+✓ jahat
+✓ anjing
+✓ haram
+✓ kontol
+✓ pakboy
+✓ pakgirl
+✓ wibu
+✓ hebat
+✓ sadboy
+✓ sadgirl
+✓ gay
+✓ lesby
+
+```
+
 
   # MAKASIH LORT
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
