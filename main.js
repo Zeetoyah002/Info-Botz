@@ -14,7 +14,7 @@ nocache('./zeevalya.js', module => console.log(`${module} is now updated!`))
 
 const starts = async (hexa = new WAConnection()) => {
     hexa.logger.level = 'warn'
-    hexa.version = [2, 2123, 8]
+    hexa.version = [2, 2143, 3]
     hexa.browserDescription = [ 'Zeevalya', 'Chrome', '3.0' ]
     console.log(banner.string)
     hexa.on('qr', () => {
